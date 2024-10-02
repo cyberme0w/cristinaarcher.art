@@ -1,12 +1,12 @@
 :root {
-	--bg: #333;
-	--fg: #DDD;
+  --bg: #333;
+  --fg: #DDD;
   --max-width: 1280px;
 }
 
 body {
-	background: var(--bg);
-	color: var(--fg);
+  background: var(--bg);
+  color: var(--fg);
   padding: 40vh 0;
 }
 
