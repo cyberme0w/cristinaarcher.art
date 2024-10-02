@@ -1,0 +1,16 @@
+:root {
+	--bg: #333;
+	--fg: #DDD;
+  --max-width: 1280px;
+}
+
+body {
+	background: var(--bg);
+	color: var(--fg);
+	max-width: var(--max-width);
+  padding: 40vh 10vw;
+}
+
+h1, h2 {
+  text-align: center;
+}
