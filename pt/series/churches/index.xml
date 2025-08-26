@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Archer</title>
+    <link>http://example.org/pt/series/churches/</link>
+    <description>Recent content on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/pt/series/churches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/038-igreja-escatelar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/038-igreja-escatelar/</guid>
+      <description>&lt;p&gt;Parte da série de pinturas &amp;ldquo;Igrejas da Região&amp;rdquo;, propriedade do município de&#xA;Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/039-igreja-canha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/039-igreja-canha/</guid>
+      <description>&lt;p&gt;Parte da série de pinturas &amp;ldquo;Igrejas da Região&amp;rdquo;, propriedade do município de&#xA;Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/040-igreja-sto-antonio-taipadas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/040-igreja-sto-antonio-taipadas/</guid>
+      <description>&lt;p&gt;Parte da série de pinturas &amp;ldquo;Igrejas da Região&amp;rdquo;, propriedade do município de&#xA;Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/041-igreja-do-bairro-de-sao-gabriel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/041-igreja-do-bairro-de-sao-gabriel/</guid>
+      <description>&lt;p&gt;Parte da série de pinturas &amp;ldquo;Igrejas da Região&amp;rdquo;, propriedade do município de&#xA;Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

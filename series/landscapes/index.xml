@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paisagens on Cristina Archer</title>
+    <link>http://example.org/series/landscapes/</link>
+    <description>Recent content in Paisagens on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/landscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Nuvem</title>
+      <link>http://example.org/artworks/049-a-nuvem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/049-a-nuvem/</guid>
+      <description>&lt;p&gt;Field work in Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bicicleta com vista para o mar</title>
+      <link>http://example.org/artworks/035-bicicleta-com-vista-para-o-mar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/035-bicicleta-com-vista-para-o-mar/</guid>
+      <description>&lt;p&gt;A quick break in the water&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Caminho Rural</title>
+      <link>http://example.org/artworks/045-caminho-rural/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/045-caminho-rural/</guid>
+      <description>&lt;p&gt;A rural path in the south of Portugal, that transports us into our&#xA;imagination&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Campo</title>
+      <link>http://example.org/artworks/021-campo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/021-campo/</guid>
+      <description>&lt;p&gt;The heat of the sun warms skin and soul.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Campo do Norte</title>
+      <link>http://example.org/artworks/054-campo-do-norte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/054-campo-do-norte/</guid>
+      <description>&lt;p&gt;Foggy landscape of the Eifel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Campo Ventoso</title>
+      <link>http://example.org/artworks/022-campo-ventoso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/022-campo-ventoso/</guid>
+      <description>&lt;p&gt;The wind - a force of nature&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrada no Bosque</title>
+      <link>http://example.org/artworks/047-entrada-no-bosque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/047-entrada-no-bosque/</guid>
+      <description>&lt;p&gt;The first impression of the woods.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Escotilha</title>
+      <link>http://example.org/artworks/028-oculo-para-o-mar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/028-oculo-para-o-mar/</guid>
+      <description>&lt;p&gt;When the sea touches the sky&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Floresta</title>
+      <link>http://example.org/artworks/023-flores-na-floresta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/023-flores-na-floresta/</guid>
+      <description>&lt;p&gt;A clearing in the forest and the unknown behind it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kehrig</title>
+      <link>http://example.org/artworks/060-kehrig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/060-kehrig/</guid>
+      <description>&lt;p&gt;A short break near Kehrig.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Levar o Mar para casa</title>
+      <link>http://example.org/artworks/036-ondas-perante-o-por-do-sol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/036-ondas-perante-o-por-do-sol/</guid>
+      <description>&lt;p&gt;When we long to see the sea, we can look at it here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Olho de Peixe</title>
+      <link>http://example.org/artworks/048-olho-de-peixe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/048-olho-de-peixe/</guid>
+      <description>&lt;p&gt;Meadows and fields in the Eifel region.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

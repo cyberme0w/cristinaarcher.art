@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vida na cidade on Cristina Archer</title>
+    <link>http://example.org/series/cityscapes/</link>
+    <description>Recent content in Vida na cidade on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/cityscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A minha casa em Alfama</title>
+      <link>http://example.org/artworks/056-a-minha-casa-em-alfama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/056-a-minha-casa-em-alfama/</guid>
+      <description>&lt;p&gt;Lisbon&amp;rsquo;s stairs and corners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Casas de Alfama</title>
+      <link>http://example.org/artworks/017-casas-tortas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/017-casas-tortas/</guid>
+      <description>&lt;p&gt;The doors to life&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elétrico 1</title>
+      <link>http://example.org/artworks/034-eletrico-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/034-eletrico-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luar</title>
+      <link>http://example.org/artworks/053-luar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/053-luar/</guid>
+      <description>&lt;p&gt;The shine of the full moon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Missa de Domingo</title>
+      <link>http://example.org/artworks/019-missa-de-domingo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/019-missa-de-domingo/</guid>
+      <description>&lt;p&gt;In a village in Germany&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paragem</title>
+      <link>http://example.org/artworks/064-paragem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/064-paragem/</guid>
+      <description>&lt;p&gt;Passengers board the night bus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Telhados</title>
+      <link>http://example.org/artworks/018-telhados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/018-telhados/</guid>
+      <description>&lt;p&gt;The burgundy-red rooftops of Lisbon.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Archer</title>
+    <link>http://example.org/de/series/cityscapes/</link>
+    <description>Recent content on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/de/series/cityscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/017-casas-tortas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/017-casas-tortas/</guid>
+      <description>&lt;p&gt;Die Türe des Lebens&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/018-telhados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/018-telhados/</guid>
+      <description>&lt;p&gt;Die burgunderroten Dächer von Lissabon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/019-missa-de-domingo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/019-missa-de-domingo/</guid>
+      <description>&lt;p&gt;In einem Dorf in Deutschland&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/034-eletrico-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/034-eletrico-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/053-luar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/053-luar/</guid>
+      <description>&lt;p&gt;Der Glanz des Vollmondes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/056-a-minha-casa-em-alfama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/056-a-minha-casa-em-alfama/</guid>
+      <description>&lt;p&gt;Lissabons Treppen und Ecken.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/064-paragem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/064-paragem/</guid>
+      <description>&lt;p&gt;Fahrgäste steigen in den Nachtbus ein.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

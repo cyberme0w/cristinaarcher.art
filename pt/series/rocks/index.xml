@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Archer</title>
+    <link>http://example.org/pt/series/rocks/</link>
+    <description>Recent content on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/pt/series/rocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/024-pedra-beijaflor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/024-pedra-beijaflor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/025-pedra-borboleta-em-dente-de-leao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/025-pedra-borboleta-em-dente-de-leao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/026-pedra-miradouro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/026-pedra-miradouro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/027-casa-de-pedra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/027-casa-de-pedra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/044-pedra-borboleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/044-pedra-borboleta/</guid>
+      <description>&lt;p&gt;A borboleta-pavão (&lt;em&gt;Aglais io&lt;/em&gt;) é uma borboleta da família das&#xA;borboletas-ninfalídeas (&lt;em&gt;Nymphalidae&lt;/em&gt;). O nome da espécie deriva de Io, uma&#xA;amante de Zeus, da mitologia grega.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

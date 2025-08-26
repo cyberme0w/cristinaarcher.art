@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedras on Cristina Archer</title>
+    <link>http://example.org/series/rocks/</link>
+    <description>Recent content in Pedras on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/rocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Borboleta poisada num Dente-de-Leão</title>
+      <link>http://example.org/artworks/025-pedra-borboleta-em-dente-de-leao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/025-pedra-borboleta-em-dente-de-leao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Borboleta-Pavão</title>
+      <link>http://example.org/artworks/044-pedra-borboleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/044-pedra-borboleta/</guid>
+      <description>&lt;p&gt;The European peacock (&lt;em&gt;Aglais io&lt;/em&gt;) is a butterfly from the family of&#xA;Nymphalidae. The species name is derived from Io, a lover of Zeus, from Greek&#xA;mythology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Casa de Pedra</title>
+      <link>http://example.org/artworks/027-casa-de-pedra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/027-casa-de-pedra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mariposa-esfinge-colibri</title>
+      <link>http://example.org/artworks/024-pedra-beijaflor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/024-pedra-beijaflor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miradouro de Santa Luzia</title>
+      <link>http://example.org/artworks/026-pedra-miradouro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/026-pedra-miradouro/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

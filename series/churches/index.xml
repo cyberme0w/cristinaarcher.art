@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igrejas on Cristina Archer</title>
+    <link>http://example.org/series/churches/</link>
+    <description>Recent content in Igrejas on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/churches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A capela do Escatelar</title>
+      <link>http://example.org/artworks/038-igreja-escatelar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/038-igreja-escatelar/</guid>
+      <description>&lt;p&gt;Part of the series of paintings entitled “Churches of the Region,” owned by the&#xA;local district of Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Igreja de Canha</title>
+      <link>http://example.org/artworks/039-igreja-canha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/039-igreja-canha/</guid>
+      <description>&lt;p&gt;Part of the series of paintings entitled “Churches of the Region,” owned by the&#xA;local district of Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Igreja de St. António das Taipadas</title>
+      <link>http://example.org/artworks/040-igreja-sto-antonio-taipadas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/040-igreja-sto-antonio-taipadas/</guid>
+      <description>&lt;p&gt;Part of the series of paintings entitled “Churches of the Region,” owned by the&#xA;local district of Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Igreja do Bairro de São Gabriel</title>
+      <link>http://example.org/artworks/041-igreja-do-bairro-de-sao-gabriel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/041-igreja-do-bairro-de-sao-gabriel/</guid>
+      <description>&lt;p&gt;Part of the series of paintings entitled “Churches of the Region,” owned by the&#xA;local district of Canha, Portugal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

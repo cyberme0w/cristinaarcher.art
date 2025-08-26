@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insetos on Cristina Archer</title>
+    <link>http://example.org/series/insects/</link>
+    <description>Recent content in Insetos on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/insects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abelha-europeia</title>
+      <link>http://example.org/artworks/077-abelha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/077-abelha/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Apis mellifera&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Western honey bee is a social bee of European origin, whose workers measure&#xA;12 mm to 13 mm in length and have darker chest hair.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abelhão</title>
+      <link>http://example.org/artworks/032-abelha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/032-abelha/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Bombus terrestris&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Besouro-das-rosas</title>
+      <link>http://example.org/artworks/037-escaravelho-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/037-escaravelho-2/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Cetonia aurata&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Borboleta-pavão</title>
+      <link>http://example.org/artworks/031-borboleta-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/031-borboleta-2/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Aglais io&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Borboleta-tartaruga-pequena</title>
+      <link>http://example.org/artworks/078-borboleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/078-borboleta/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Aglais urticae&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The small tortoiseshell butterfly is a species of lepidopteran insect, more&#xA;specifically a butterfly belonging to the &lt;em&gt;Nymphalidae&lt;/em&gt; family.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Percevejo-do-fogo</title>
+      <link>http://example.org/artworks/013-escaravelho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/013-escaravelho/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Pyrrhocoris apterus&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tabuleiro de Xadrez (Borboleta)</title>
+      <link>http://example.org/artworks/014-borboleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/014-borboleta/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Melanargia galathea&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vespa comum</title>
+      <link>http://example.org/artworks/012-vespa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/012-vespa/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Vespula vulgaris&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zangão do Jardim</title>
+      <link>http://example.org/artworks/033-abelha-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/033-abelha-2/</guid>
+      <description>&lt;p&gt;Scientific name: &lt;em&gt;Bombus hortorum&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
