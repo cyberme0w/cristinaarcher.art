@@ -282,6 +282,20 @@
       <description>&lt;p&gt;The wind - a force of nature&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cão Azul</title>
+      <link>http://example.org/artworks/082-cao-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/082-cao-azul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cão Preto e Branco</title>
+      <link>http://example.org/artworks/093-cao-preto-e-branco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/093-cao-preto-e-branco/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Casa de Pedra</title>
       <link>http://example.org/artworks/027-casa-de-pedra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -345,6 +359,13 @@
       <description>&lt;p&gt;Scientific name: &lt;em&gt;Cyanopica cyanus&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This bird is native to the south of the Iberian Peninsula (Portugal and Spain)&#xA;and also to China, Korea, Japan, northern Mongolia and southern Russia.&lt;/p&gt;&#xA;&lt;p&gt;This particular distribution is due to the fragmentation of a continuous&#xA;population that stretched from the Iberian Peninsula to the Far East around 1.2&#xA;million years ago. The split was due to climate change caused by the last Ice&#xA;Age: the reduction in temperature was so marked that the populations of this&#xA;species disappeared from Eastern Europe and the Middle East, with only the&#xA;populations at the extremes of the Eurasian continent remaining. They found&#xA;refuge there because the temperatures were more tolerable.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Chimpanzé</title>
+      <link>http://example.org/artworks/091-chimpanze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/091-chimpanze/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Elétrico 1</title>
       <link>http://example.org/artworks/034-eletrico-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -366,11 +387,53 @@
       <description>&lt;p&gt;When the sea touches the sky&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Esquilo</title>
+      <link>http://example.org/artworks/080-esquilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/080-esquilo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flor Roxa</title>
+      <link>http://example.org/artworks/088-flor-roxa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/088-flor-roxa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flor Roxa 2</title>
+      <link>http://example.org/artworks/089-flor-roxa-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/089-flor-roxa-2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Flores</title>
       <link>http://example.org/artworks/050-flores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/050-flores/</guid>
       <description>&lt;p&gt;The start of spring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flores &amp; Abelhas</title>
+      <link>http://example.org/artworks/086-flores-e-abelhas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/086-flores-e-abelhas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flores em Pastel</title>
+      <link>http://example.org/artworks/084-flores-em-pastel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/084-flores-em-pastel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flores no Tronco</title>
+      <link>http://example.org/artworks/087-flores-no-tronco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/087-flores-no-tronco/</guid>
+      <description></description>
     </item>
     <item>
       <title>Floresta</title>
@@ -422,6 +485,13 @@
       <description>&lt;p&gt;Scientific name: &lt;em&gt;Ardea cinerea&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The gray heron, also known as the great white egret, is a bird species from the&#xA;order &lt;em&gt;Pelecaniformes&lt;/em&gt;. It is very common and widespread in Eurasia and Africa.&lt;/p&gt;&#xA;&lt;p&gt;There are four subspecies worldwide. In Central Europe, it is represented by&#xA;the nominate form &lt;em&gt;Ardea cinerea cinerea&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The grey heron reaches a body length of 90 to 98 centimetres and usually weighs&#xA;between 1 and 2 kilograms.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gato na Rua</title>
+      <link>http://example.org/artworks/083-gato-na-rua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/083-gato-na-rua/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Guaxinim</title>
       <link>http://example.org/artworks/059-guaxini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -469,6 +539,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/036-ondas-perante-o-por-do-sol/</guid>
       <description>&lt;p&gt;When we long to see the sea, we can look at it here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Limões</title>
+      <link>http://example.org/artworks/085-limoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/085-limoes/</guid>
+      <description></description>
     </item>
     <item>
       <title>Lobo</title>
@@ -611,6 +688,20 @@
       <description>&lt;p&gt;Scientific name: &lt;em&gt;Upupa epops&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pug</title>
+      <link>http://example.org/artworks/079-pug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/079-pug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rato do Campo</title>
+      <link>http://example.org/artworks/081-rato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/081-rato/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Rola Turca</title>
       <link>http://example.org/artworks/011-rola-turca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -658,6 +749,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/065-toureiro/</guid>
       <description>&lt;p&gt;A &lt;em&gt;Toureiro&lt;/em&gt; in traditional clothing in the arena.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vaca</title>
+      <link>http://example.org/artworks/092-vaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/092-vaca/</guid>
+      <description></description>
     </item>
     <item>
       <title>Veleiro ao luar</title>

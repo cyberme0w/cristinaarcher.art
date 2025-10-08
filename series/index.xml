@@ -6,8 +6,15 @@
     <description>Recent content in Series on Cristina Archer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Feb 2021 10:10:49 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amigos Pelúdos</title>
+      <link>http://example.org/series/fluffers/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://example.org/series/fluffers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Aves</title>
       <link>http://example.org/series/birds/</link>

@@ -71,5 +71,12 @@
       <guid>http://example.org/de/artworks/078-borboleta/</guid>
       <description>&lt;p&gt;Wissenschaftlicher Name: &lt;em&gt;Aglais urticae&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Der Kleiner Fuchs ist eine Art der Lepidopteren, genauer gesagt der&#xA;Schmetterlinge, die zur Familie der &lt;em&gt;Nymphalidae&lt;/em&gt; gehören.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/086-flores-e-abelhas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/086-flores-e-abelhas/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

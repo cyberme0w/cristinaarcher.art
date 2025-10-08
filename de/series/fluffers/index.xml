@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Archer</title>
+    <link>http://example.org/de/series/fluffers/</link>
+    <description>Recent content on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/de/series/fluffers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/079-pug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/079-pug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/080-esquilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/080-esquilo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/081-rato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/081-rato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/082-cao-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/082-cao-azul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/083-gato-na-rua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/083-gato-na-rua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/091-chimpanze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/091-chimpanze/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/093-cao-preto-e-branco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/093-cao-preto-e-branco/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
