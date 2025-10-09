@@ -57,5 +57,47 @@
       <guid>http://example.org/pt/artworks/093-cao-preto-e-branco/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/094-burro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/094-burro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/095-galinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/095-galinha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/096-cao-laranja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/096-cao-laranja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/097-porco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/097-porco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/101-coelho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/101-coelho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/102-coelho-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/102-coelho-2/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

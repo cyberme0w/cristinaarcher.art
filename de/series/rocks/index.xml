@@ -43,5 +43,12 @@
       <guid>http://example.org/de/artworks/044-pedra-borboleta/</guid>
       <description>&lt;p&gt;Das Tagpfauenauge (&lt;em&gt;Aglais io&lt;/em&gt;) ist ein Schmetterling aus der Familie der&#xA;Edelfalter (&lt;em&gt;Nymphalidae&lt;/em&gt;). Der Artname leitet sich von Io, einer Geliebten des&#xA;Zeus, aus der griechischen Mythologie ab.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/100-pedra-borboleta-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/100-pedra-borboleta-azul/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

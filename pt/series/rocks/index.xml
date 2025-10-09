@@ -43,5 +43,12 @@
       <guid>http://example.org/pt/artworks/044-pedra-borboleta/</guid>
       <description>&lt;p&gt;A borboleta-pavão (&lt;em&gt;Aglais io&lt;/em&gt;) é uma borboleta da família das&#xA;borboletas-ninfalídeas (&lt;em&gt;Nymphalidae&lt;/em&gt;). O nome da espécie deriva de Io, uma&#xA;amante de Zeus, da mitologia grega.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/100-pedra-borboleta-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/100-pedra-borboleta-azul/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -9,10 +9,24 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/series/fluffers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Burro</title>
+      <link>http://example.org/artworks/094-burro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/094-burro/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cão Azul</title>
       <link>http://example.org/artworks/082-cao-azul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/082-cao-azul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cão Laranja</title>
+      <link>http://example.org/artworks/096-cao-laranja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/096-cao-laranja/</guid>
       <description></description>
     </item>
     <item>
@@ -30,6 +44,20 @@
       <description></description>
     </item>
     <item>
+      <title>Coelho</title>
+      <link>http://example.org/artworks/101-coelho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/101-coelho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coelho 2</title>
+      <link>http://example.org/artworks/102-coelho-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/102-coelho-2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Esquilo</title>
       <link>http://example.org/artworks/080-esquilo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,10 +65,24 @@
       <description></description>
     </item>
     <item>
+      <title>Galinha</title>
+      <link>http://example.org/artworks/095-galinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/095-galinha/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Gato na Rua</title>
       <link>http://example.org/artworks/083-gato-na-rua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/083-gato-na-rua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Porco</title>
+      <link>http://example.org/artworks/097-porco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/097-porco/</guid>
       <description></description>
     </item>
     <item>
