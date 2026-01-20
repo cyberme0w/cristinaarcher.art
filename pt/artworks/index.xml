@@ -700,5 +700,61 @@
       <guid>http://example.org/pt/artworks/102-coelho-2/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/103-tartaruga-marinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/103-tartaruga-marinha/</guid>
+      <description>&lt;p&gt;O grupo é constituído por seis gêneros e sete espécies, todas elas ameaçadas de extinção devido a muitos anos de caça intensiva pela sua carapaça.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/104-baleia-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/104-baleia-azul/</guid>
+      <description>&lt;p&gt;A União Internacional para a Conservação da Natureza (UICN) listou as baleias-azuis como &lt;a href=&#34;https://www.iucnredlist.org/species/2477/156923585&#34;&gt;ameaçadas de extinção&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/105-polvo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/105-polvo/</guid>
+      <description>&lt;p&gt;Estes animais desenvolveram grande inteligência devido a necessidades de sobrevivência, por exemplo, devido à fragilidade de seu corpo (ausência de carapaça).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/106-lula-comum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/106-lula-comum/</guid>
+      <description>&lt;p&gt;É uma espécie de lula que vive nas águas do Mediterrâneo e do Atlântico.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/107-tubarao-branco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/107-tubarao-branco/</guid>
+      <description>&lt;p&gt;É o maior peixe predador atual.  A União Internacional para a Conservação da Natureza lista o tubarão-branco como &lt;a href=&#34;https://www.iucnredlist.org/species/3855/212629880&#34;&gt;uma espécie vulnerável&lt;/a&gt;, e está incluído nas Espécies Silvestres Ameaçadas de Extinção, sendo a espécie protegida por vários governos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/108-atum-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/108-atum-azul/</guid>
+      <description>&lt;p&gt;Pela sua importância económica na culinária especialmente no &lt;em&gt;sushi&lt;/em&gt; e&#xA;&lt;em&gt;sashimi&lt;/em&gt; o atum azul é alvo de uma importante pescaria, enfrentando sérios&#xA;desafios devido à pesca excessiva e à degradação do seu habitat, sendo&#xA;classificado como vulnerável pela IUCN.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/109-medusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/109-medusa/</guid>
+      <description>&lt;p&gt;Alguns peixes pequenos são imunes às ferroadas das águas-vivas e vivem entre os&#xA;tentáculos, servindo como isca em uma armadilha para peixes; eles estão seguros&#xA;de predadores potenciais e podem compartilhar os peixes capturados pelas&#xA;mesmas. As Medusas produzem queimaduras na pele podendo por vezes levar ao&#xA;encerramento de praias.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/110-pinguim-imperador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/110-pinguim-imperador/</guid>
+      <description>&lt;p&gt;Declínios populacionais de 50%, na região da Terra Adélia (Antárticas&#xA;francesas), foram observados devido a um aumento de mortalidade em adultos,&#xA;especialmente em machos, durante um período anormalmente quente e prolongado no&#xA;fim da década de 1970, que resultou na diminuição da cobertura de gelo. Por&#xA;outro lado, a taxa de sucesso de incubação dos ovos diminuiu quando a&#xA;plataforma de gelo sobre o mar aumentou. A espécie é, pois, considerada muito&#xA;sensível a alterações climáticas.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

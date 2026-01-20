@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Archer</title>
+    <link>http://example.org/de/series/blue/</link>
+    <description>Recent content on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/de/series/blue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/103-tartaruga-marinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/103-tartaruga-marinha/</guid>
+      <description>&lt;p&gt;Die Gruppe besteht aus sechs Gattungen und sieben Arten, die alle aufgrund jahrelanger intensiver Bejagung wegen ihrer Panzer vom Aussterben bedroht sind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/104-baleia-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/104-baleia-azul/</guid>
+      <description>&lt;p&gt;Die Internationale Union für Naturschutz (IUCN) hat Blauwale als &lt;a href=&#34;https://www.iucnredlist.org/species/2477/156923585&#34;&gt;vom Aussterben bedroht&lt;/a&gt; eingestuft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/105-polvo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/105-polvo/</guid>
+      <description>&lt;p&gt;Diese Tiere haben aufgrund ihrer Überlebensbedürfnisse eine hohe Intelligenz entwickelt, beispielsweise aufgrund der Fragilität ihres Körpers (Fehlen eines Panzers).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/106-lula-comum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/106-lula-comum/</guid>
+      <description>&lt;p&gt;Es handelt sich um eine Tintenfischart, die im Mittelmeer und im Atlantik lebt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/107-tubarao-branco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/107-tubarao-branco/</guid>
+      <description>&lt;p&gt;Er ist der derzeit größte Raubfisch. Die Internationale Union für Naturschutz listet den Weißen Hai als &lt;a href=&#34;https://www.iucnredlist.org/species/3855/212629880&#34;&gt;gefährdete Art&lt;/a&gt; auf, und er ist in der Liste der vom Aussterben bedrohten Wildtiere aufgeführt, sodass er von mehreren Regierungen geschützt wird.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/108-atum-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/108-atum-azul/</guid>
+      <description>&lt;p&gt;Aufgrund seiner wirtschaftlichen Bedeutung in der Küche, insbesondere für&#xA;&lt;em&gt;Sushi&lt;/em&gt; und &lt;em&gt;Sashimi&lt;/em&gt;, ist der Blauflossenthunfisch Ziel einer intensiven&#xA;Fischerei und sieht sich aufgrund von Überfischung und der Zerstörung seines&#xA;Lebensraums mit ernsthaften Herausforderungen konfrontiert. Er wird von der&#xA;IUCN als gefährdet eingestuft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/109-medusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/109-medusa/</guid>
+      <description>&lt;p&gt;Einige kleine Fische sind immun gegen die Stiche der Quallen und leben zwischen&#xA;den Tentakeln, wo sie als Köder in einer Fischfalle dienen. Dort sind sie vor&#xA;potenziellen Raubtieren sicher und können sich die von den Quallen gefangenen&#xA;Fische teilen. Quallen verursachen Verbrennungen auf der Haut, was manchmal zur&#xA;Schließung von Stränden führen kann.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/110-pinguim-imperador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/110-pinguim-imperador/</guid>
+      <description>&lt;p&gt;In der Adélieland Region (Französische Antarktis) wurde aufgrund einer&#xA;erhöhten Sterblichkeit bei Erwachsenen, insbesondere bei Männchen, während&#xA;einer ungewöhnlich heißen und langen Periode Ende der 1970er Jahre, die zu&#xA;einer Verringerung der Eisbedeckung führte, ein Bevölkerungsrückgang von 50%&#xA;beobachtet. Andererseits sank die Erfolgsquote der Ei-Brut, als die Eisdecke&#xA;auf dem Meer zunahm. Die Art gilt daher als sehr empfindlich gegenüber&#xA;Klimaveränderungen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

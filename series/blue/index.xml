@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coleção Azul on Cristina Archer</title>
+    <link>http://example.org/series/blue/</link>
+    <description>Recent content in Coleção Azul on Cristina Archer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/series/blue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atum Azul</title>
+      <link>http://example.org/artworks/108-atum-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/108-atum-azul/</guid>
+      <description>&lt;p&gt;Due to its economic importance in cuisine, especially in &lt;em&gt;sushi&lt;/em&gt; and &lt;em&gt;sashimi&lt;/em&gt;,&#xA;bluefin tuna is the target of significant fishing, facing serious challenges&#xA;due to overfishing and habitat degradation, and is classified as vulnerable by&#xA;the IUCN.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baleia-azul</title>
+      <link>http://example.org/artworks/104-baleia-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/104-baleia-azul/</guid>
+      <description>&lt;p&gt;The International Union for Conservation of Nature (IUCN) has listed blue whales as &lt;a href=&#34;https://www.iucnredlist.org/species/2477/156923585&#34;&gt;endangered&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lula-comum</title>
+      <link>http://example.org/artworks/106-lula-comum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/106-lula-comum/</guid>
+      <description>&lt;p&gt;It is a species of squid that lives in the waters of the Mediterranean and the Atlantic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medusa</title>
+      <link>http://example.org/artworks/109-medusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/109-medusa/</guid>
+      <description>&lt;p&gt;Some small fish are immune to jellyfish stings and live among the tentacles,&#xA;serving as bait in a fish trap; they are safe from potential predators and can&#xA;share the fish caught by the jellyfish. Jellyfish cause skin burns, which can&#xA;sometimes lead to beaches being closed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pinguim-Imperador</title>
+      <link>http://example.org/artworks/110-pinguim-imperador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/110-pinguim-imperador/</guid>
+      <description>&lt;p&gt;Population declines of 50% in the Adélie Land region (French Antarctic) were&#xA;observed due to increased adult mortality, especially among males, during an&#xA;abnormally warm and prolonged period in the late 1970s, which resulted in&#xA;decreased ice cover. On the other hand, the egg incubation success rate&#xA;decreased when the ice shelf over the sea increased. The species is therefore&#xA;considered to be very sensitive to climate change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Polvo-comum</title>
+      <link>http://example.org/artworks/105-polvo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/105-polvo/</guid>
+      <description>&lt;p&gt;These animals have developed great intelligence due to survival needs, for example, due to the fragility of their bodies (lack of a shell).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tartaruga-marinha</title>
+      <link>http://example.org/artworks/103-tartaruga-marinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/103-tartaruga-marinha/</guid>
+      <description>&lt;p&gt;The group consists of six genera and seven species, all of which are threatened with extinction due to many years of intensive hunting for their shells.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tubarão-branco</title>
+      <link>http://example.org/artworks/107-tubarao-branco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/107-tubarao-branco/</guid>
+      <description>&lt;p&gt;It is currently the largest predatory fish. The International Union for Conservation of Nature lists the great white shark as &lt;a href=&#34;https://www.iucnredlist.org/species/3855/212629880&#34;&gt;a vulnerable species&lt;/a&gt;, and it is included in the Endangered Species List, being protected by several governments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
