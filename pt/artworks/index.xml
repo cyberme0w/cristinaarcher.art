@@ -756,5 +756,12 @@
       <guid>http://example.org/pt/artworks/110-pinguim-imperador/</guid>
       <description>&lt;p&gt;Declínios populacionais de 50%, na região da Terra Adélia (Antárticas&#xA;francesas), foram observados devido a um aumento de mortalidade em adultos,&#xA;especialmente em machos, durante um período anormalmente quente e prolongado no&#xA;fim da década de 1970, que resultou na diminuição da cobertura de gelo. Por&#xA;outro lado, a taxa de sucesso de incubação dos ovos diminuiu quando a&#xA;plataforma de gelo sobre o mar aumentou. A espécie é, pois, considerada muito&#xA;sensível a alterações climáticas.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/111-lupita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/111-lupita/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

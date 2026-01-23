@@ -10,6 +10,13 @@
     <atom:link href="http://example.org/de/series/fluffers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://example.org/de/artworks/066-galo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/066-galo/</guid>
+      <description>&lt;p&gt;Bei Tagesanbruch durchbricht das Krähen des Hahns die Stille und weckt die&#xA;restlichen Bewohner auf.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://example.org/de/artworks/079-pug/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/de/artworks/079-pug/</guid>
@@ -97,6 +104,13 @@
       <link>http://example.org/de/artworks/102-coelho-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/de/artworks/102-coelho-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/111-lupita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/111-lupita/</guid>
       <description></description>
     </item>
   </channel>
