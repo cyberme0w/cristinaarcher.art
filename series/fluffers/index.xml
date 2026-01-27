@@ -86,6 +86,20 @@
       <description></description>
     </item>
     <item>
+      <title>Nina</title>
+      <link>http://example.org/artworks/058-nina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/058-nina/</guid>
+      <description>&lt;p&gt;European shorthair cat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ovelha</title>
+      <link>http://example.org/artworks/063-ovelha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/063-ovelha/</guid>
+      <description>&lt;p&gt;A cloud of wool and big, staring eyes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Porco</title>
       <link>http://example.org/artworks/097-porco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,6 +118,13 @@
       <link>http://example.org/artworks/081-rato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/081-rato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaca</title>
+      <link>http://example.org/artworks/092-vaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/092-vaca/</guid>
       <description></description>
     </item>
   </channel>
