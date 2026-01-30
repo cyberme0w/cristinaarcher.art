@@ -693,6 +693,23 @@
                 href="http://example.org/artworks/037-escaravelho-2/"
                 />
   </url><url>
+    <loc>http://example.org/artworks/062-cachorro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/artworks/062-cachorro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/artworks/062-cachorro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/artworks/062-cachorro/"
+                />
+  </url><url>
     <loc>http://example.org/artworks/035-bicicleta-com-vista-para-o-mar/</loc>
     <xhtml:link
                 rel="alternate"
@@ -742,6 +759,23 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://example.org/artworks/100-pedra-borboleta-azul/"
+                />
+  </url><url>
+    <loc>http://example.org/artworks/114-borboleta-azul/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/artworks/114-borboleta-azul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/artworks/114-borboleta-azul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/artworks/114-borboleta-azul/"
                 />
   </url><url>
     <loc>http://example.org/artworks/025-pedra-borboleta-em-dente-de-leao/</loc>
@@ -863,21 +897,21 @@
                 href="http://example.org/artworks/029-cavalo/"
                 />
   </url><url>
-    <loc>http://example.org/artworks/062-cachorro/</loc>
+    <loc>http://example.org/artworks/113-ziege/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://example.org/de/artworks/062-cachorro/"
+                href="http://example.org/de/artworks/113-ziege/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://example.org/pt/artworks/062-cachorro/"
+                href="http://example.org/pt/artworks/113-ziege/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/artworks/062-cachorro/"
+                href="http://example.org/artworks/113-ziege/"
                 />
   </url><url>
     <loc>http://example.org/artworks/045-caminho-rural/</loc>
@@ -1728,6 +1762,23 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://example.org/artworks/111-lupita/"
+                />
+  </url><url>
+    <loc>http://example.org/artworks/112-kinder/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/artworks/112-kinder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/artworks/112-kinder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/artworks/112-kinder/"
                 />
   </url><url>
     <loc>http://example.org/artworks/024-pedra-beijaflor/</loc>

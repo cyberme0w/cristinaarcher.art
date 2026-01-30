@@ -17,6 +17,27 @@
     </item>
     <item>
       <title></title>
+      <link>http://example.org/pt/artworks/059-guaxini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/059-guaxini/</guid>
+      <description>&lt;p&gt;Retrato de um guaxinim em cores suaves e discretas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/061-lobo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/061-lobo/</guid>
+      <description>&lt;p&gt;O lobo pára, capturado num momento de silêncio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/062-cachorro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/062-cachorro/</guid>
+      <description>&lt;p&gt;Um remoinho de caracóis brancos e olhos curiosos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://example.org/pt/artworks/063-ovelha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/pt/artworks/063-ovelha/</guid>
@@ -125,6 +146,20 @@
       <link>http://example.org/pt/artworks/111-lupita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/pt/artworks/111-lupita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/112-kinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/112-kinder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/113-ziege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/113-ziege/</guid>
       <description></description>
     </item>
   </channel>

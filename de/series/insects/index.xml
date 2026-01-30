@@ -78,5 +78,12 @@
       <guid>http://example.org/de/artworks/086-flores-e-abelhas/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/de/artworks/114-borboleta-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/de/artworks/114-borboleta-azul/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -9,10 +9,24 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/series/fluffers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bichon Bolonhês</title>
+      <link>http://example.org/artworks/062-cachorro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/062-cachorro/</guid>
+      <description>&lt;p&gt;A whirlwind of white curls and curious eyes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Burro</title>
       <link>http://example.org/artworks/094-burro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/094-burro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cabra</title>
+      <link>http://example.org/artworks/113-ziege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/113-ziege/</guid>
       <description></description>
     </item>
     <item>
@@ -79,10 +93,31 @@
       <description>&lt;p&gt;At dawn, the crowing of the rooster breaks the silence and wakes the rest of&#xA;the residents.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Guaxinim Comum</title>
+      <link>http://example.org/artworks/059-guaxini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/059-guaxini/</guid>
+      <description>&lt;p&gt;Portrait of a raccoon in soft, muted colors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lobo</title>
+      <link>http://example.org/artworks/061-lobo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/061-lobo/</guid>
+      <description>&lt;p&gt;The wolf pauses, caught in a moment of silence.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Lupita, o dachshund</title>
       <link>http://example.org/artworks/111-lupita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/111-lupita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lupita, o dachshund</title>
+      <link>http://example.org/artworks/112-kinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/112-kinder/</guid>
       <description></description>
     </item>
     <item>

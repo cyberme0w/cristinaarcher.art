@@ -884,6 +884,27 @@
       <description></description>
     </item>
     <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/112-kinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/112-kinder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/113-ziege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/113-ziege/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://example.org/pt/artworks/114-borboleta-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/pt/artworks/114-borboleta-azul/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Impressum</title>
       <link>http://example.org/pt/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

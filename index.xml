@@ -205,6 +205,13 @@
       <description>&lt;p&gt;Scientific name: &lt;em&gt;Cetonia aurata&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Bichon Bolonhês</title>
+      <link>http://example.org/artworks/062-cachorro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/062-cachorro/</guid>
+      <description>&lt;p&gt;A whirlwind of white curls and curious eyes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bicicleta com vista para o mar</title>
       <link>http://example.org/artworks/035-bicicleta-com-vista-para-o-mar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -223,6 +230,13 @@
       <link>http://example.org/artworks/100-pedra-borboleta-azul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/100-pedra-borboleta-azul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Borboleta Azul</title>
+      <link>http://example.org/artworks/114-borboleta-azul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/114-borboleta-azul/</guid>
       <description></description>
     </item>
     <item>
@@ -275,11 +289,11 @@
       <description></description>
     </item>
     <item>
-      <title>Cachorro</title>
-      <link>http://example.org/artworks/062-cachorro/</link>
+      <title>Cabra</title>
+      <link>http://example.org/artworks/113-ziege/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/artworks/062-cachorro/</guid>
-      <description>&lt;p&gt;A whirlwind of white curls and curious eyes.&lt;/p&gt;</description>
+      <guid>http://example.org/artworks/113-ziege/</guid>
+      <description></description>
     </item>
     <item>
       <title>Caminho Rural</title>
@@ -548,11 +562,11 @@
       <description></description>
     </item>
     <item>
-      <title>Guaxinim</title>
+      <title>Guaxinim Comum</title>
       <link>http://example.org/artworks/059-guaxini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/059-guaxini/</guid>
-      <description>&lt;p&gt;Pastel oil portrait of a raccoon in soft, muted colors.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Portrait of a raccoon in soft, muted colors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Igreja de Canha</title>
@@ -629,6 +643,13 @@
       <link>http://example.org/artworks/111-lupita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/111-lupita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lupita, o dachshund</title>
+      <link>http://example.org/artworks/112-kinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/112-kinder/</guid>
       <description></description>
     </item>
     <item>
