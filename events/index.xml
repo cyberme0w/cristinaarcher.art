@@ -6,8 +6,15 @@
     <description>Recent content in Events on Cristina Archer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kunstausstellung im Forum Mittelrhein Koblenz</title>
+      <link>http://example.org/events/2026-forum-mittelrhein-koblenz/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://example.org/events/2026-forum-mittelrhein-koblenz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/events/2026-forum-mittelrhein-koblenz/flyer.jpg&#34; alt=&#34;Flyer&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kirche trifft Kunst und Musik</title>
       <link>http://example.org/events/2025-kirche-trifft-kunst-und-musik/</link>

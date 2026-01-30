@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/"
+                />
+  </url><url>
+    <loc>http://example.org/events/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/events/"
+                />
+  </url><url>
+    <loc>http://example.org/events/2026-forum-mittelrhein-koblenz/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/events/2026-forum-mittelrhein-koblenz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/events/2026-forum-mittelrhein-koblenz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/events/2026-forum-mittelrhein-koblenz/"
+                />
+  </url><url>
     <loc>http://example.org/series/blue/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,42 +108,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://example.org/series/fluffers/"
-                />
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://example.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://example.org/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://example.org/"
-                />
-  </url><url>
-    <loc>http://example.org/events/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://example.org/pt/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://example.org/de/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://example.org/events/"
                 />
   </url><url>
     <loc>http://example.org/events/2025-kirche-trifft-kunst-und-musik/</loc>
