@@ -499,6 +499,13 @@
       <description></description>
     </item>
     <item>
+      <title>Flores no Colo</title>
+      <link>http://example.org/artworks/057-o-regaco-de-d-ana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/artworks/057-o-regaco-de-d-ana/</guid>
+      <description>&lt;p&gt;Farmer with wildflowers.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Flores no Tronco</title>
       <link>http://example.org/artworks/087-flores-no-tronco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -700,13 +707,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/artworks/058-nina/</guid>
       <description>&lt;p&gt;European shorthair cat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>O regaço de D. Ana</title>
-      <link>http://example.org/artworks/057-o-regaco-de-d-ana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/artworks/057-o-regaco-de-d-ana/</guid>
-      <description>&lt;p&gt;Farmer with wildflowers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Olho de Peixe</title>

@@ -1408,6 +1408,23 @@
                 href="http://example.org/artworks/084-flores-em-pastel/"
                 />
   </url><url>
+    <loc>http://example.org/artworks/057-o-regaco-de-d-ana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://example.org/de/artworks/057-o-regaco-de-d-ana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://example.org/pt/artworks/057-o-regaco-de-d-ana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://example.org/artworks/057-o-regaco-de-d-ana/"
+                />
+  </url><url>
     <loc>http://example.org/artworks/087-flores-no-tronco/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1899,23 +1916,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://example.org/artworks/058-nina/"
-                />
-  </url><url>
-    <loc>http://example.org/artworks/057-o-regaco-de-d-ana/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://example.org/de/artworks/057-o-regaco-de-d-ana/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://example.org/pt/artworks/057-o-regaco-de-d-ana/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://example.org/artworks/057-o-regaco-de-d-ana/"
                 />
   </url><url>
     <loc>http://example.org/artworks/048-olho-de-peixe/</loc>
